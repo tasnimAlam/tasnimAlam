@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Angular, React**
 
-- 🌱 I’m currently learning **Rust, Lua, Bash**
+- 🌱 I’m currently learning **TypeScript, Rust, Lua, Bash**
 
 - 👯 I’m looking to collaborate on **JS based projects**
 
